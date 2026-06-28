@@ -1,11 +1,11 @@
-import Header from '../components/layout/Header';
-import Hero from '../components/sections/Hero';
-import Problem from '../components/sections/Problem';
-import Context from '../components/sections/Context';
-import Flow from '../components/sections/Flow';
-import Intelligence from '../components/sections/Intelligence';
-import PrivacyShort from '../components/sections/PrivacyShort';
-import Footer from '../components/layout/Footer';
+import Header from '../components/organisms/Header';
+import Hero from '../components/organisms/Hero';
+import Problem from '../components/organisms/Problem';
+import Context from '../components/organisms/Context';
+import Flow from '../components/organisms/Flow';
+import Intelligence from '../components/organisms/Intelligence';
+import PrivacyShort from '../components/organisms/PrivacyShort';
+import Footer from '../components/organisms/Footer';
 
 export default function Home() {
   return (

@@ -1,5 +1,5 @@
-import Header from '../components/layout/Header';
-import Footer from '../components/layout/Footer';
+import Header from '../components/organisms/Header';
+import Footer from '../components/organisms/Footer';
 
 export default function Privacy() {
   return (

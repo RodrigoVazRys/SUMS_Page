@@ -1,11 +1,11 @@
-import Header from '../components/layout/Header';
-import Roles from '../components/sections/Roles';
-import Teams from '../components/sections/Teams';
-import Security from '../components/sections/Security';
-import Soa from '../components/sections/Soa';
-import Subjects from '../components/sections/Subjects';
-import Documents from '../components/sections/Documents';
-import Footer from '../components/layout/Footer';
+import Header from '../components/organisms/Header';
+import Roles from '../components/organisms/Roles';
+import Teams from '../components/organisms/Teams';
+import Security from '../components/organisms/Security';
+import Soa from '../components/organisms/Soa';
+import Subjects from '../components/organisms/Subjects';
+import Documents from '../components/organisms/Documents';
+import Footer from '../components/organisms/Footer';
 
 export default function Stack() {
   return (
