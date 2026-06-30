@@ -1,6 +1,7 @@
 import Header from '../components/organisms/Header';
 import Roles from '../components/organisms/Roles';
 import Teams from '../components/organisms/Teams';
+import TeamProgress from '../components/organisms/TeamProgress';
 import Security from '../components/organisms/Security';
 import Soa from '../components/organisms/Soa';
 import Subjects from '../components/organisms/Subjects';
@@ -18,6 +19,7 @@ export default function Stack() {
         </div>
         <Roles />
         <Teams />
+        <TeamProgress />
         <Security />
         <Soa />
         <Subjects />
